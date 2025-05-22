@@ -79,7 +79,7 @@ def average_height(url_list):
 
 mens_swim_df = average_height(sports_teams['mens_swimming'])
 mens_swim_df
-# shows the mens swimming into a dataframe
+# shows the mens swimming into a df
 
 mens_volley_df = average_height(sports_teams['mens_volleyball'])
 mens_volley_df
